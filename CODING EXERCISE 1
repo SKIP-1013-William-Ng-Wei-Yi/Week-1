@@ -1,0 +1,15 @@
+package myInfo;
+
+public class Intro {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("Name : William Ng Wei Yi");
+	System.out.println("University : UUM ");
+	System.out.println("No Matric : 284613");
+	System.out.println("Course : B.Computer Science");
+	System.out.println("Father;s Name : Ng Chow Siang");
+	System.out.println("Mother's Name : Tan Lee Yeong");
+	System.out.println("Hometown : Pulau Pinang");
+	System.out.println("Address : NO 29, Lorong Haji Ahmad Jamil 8,\n\t  Taman Haji Ahmad Jamil,\n\t  13300, Tasek Gelugor, Pulau Pinang");
+}
